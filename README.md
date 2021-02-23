@@ -1,3 +1,3 @@
 # VISUALIZER
 
-An fft music/audio visualizer.
+An fft music/audio visualizer in Processing.
