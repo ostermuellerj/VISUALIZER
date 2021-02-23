@@ -1,0 +1,9 @@
+DEMO:
+1. manual separation with supercollider
+2. amplitude-only visualizer (doesnt give info)
+3. variable visual character visualizer demo, e.g.:
+	- map color to frequency (specific color)
+	- map translation to amplitude
+	- map map pulse to beat (******)
+
+4. max_amp sampling for gain normalization
