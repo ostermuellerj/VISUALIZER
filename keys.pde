@@ -11,13 +11,13 @@ void keyPressed() {
   }
   drawShapeType=state;
 
-  if (keyCode == LEFT) 
+  if (keyCode == DOWN) 
   {
     // gain/=2;
     init_gain1/=2;  
     println(gain);
   } 
-  else if (keyCode == RIGHT)
+  else if (keyCode == UP)
   {
     // gain*=2;
     init_gain1*=2;
